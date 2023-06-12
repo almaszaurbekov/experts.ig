@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
+djangorestframework = "*"
+djangorestframework-simplejwt = "==5.2.2"
+pillow = "*"
+env = "*"
+environs = "*"
 
 [dev-packages]
 
